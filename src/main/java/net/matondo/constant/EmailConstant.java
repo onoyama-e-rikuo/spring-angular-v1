@@ -2,9 +2,9 @@ package net.matondo.constant;
 
 public class EmailConstant {
     public static final String SIMPLE_MAIL_TRANSFER_PROTOCOL = "smtps";
-    public static final String USERNAME = "自分の環境";
-    public static final String PASSWORD = "自分の環境";
-    public static final String FROM_EMAIL = "自分の環境";
+    public static final String USERNAME = "evang00dd@gmail.com";
+    public static final String PASSWORD = "r8797687976";
+    public static final String FROM_EMAIL = "spring-angular@gmail.com";
     public static final String CC_EMAIL = "";
     public static final String EMAIL_SUBJECT = "Get Arrays, LLC - New Password";
     public static final String GMAIL_SMTP_SERVER = "smtp.gmail.com";
